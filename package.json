@@ -1,0 +1,23 @@
+{
+  "name": "react-product-zoom",
+  "version": "1.0.0",
+  "description": "A collection of responsive, image magnifying React components for mouse and touch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavgautam/react-product-zoom.git"
+  },
+  "keywords": [
+    "image",
+    "magnifier"
+  ],
+  "author": "keshav gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavgautam/react-product-zoom/issues"
+  },
+  "homepage": "https://github.com/keshavgautam/react-product-zoom#readme"
+}

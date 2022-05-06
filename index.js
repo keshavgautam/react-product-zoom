@@ -1,2 +1,3 @@
 import Zoom from "./src/zoom";
-exports.Zoom = Zoom;
+
+export default Zoom;

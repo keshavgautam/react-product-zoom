@@ -1,6 +1,6 @@
 {
   "name": "react-product-zoom",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A collection of responsive, image magnifying React components for mouse and touch.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/keshavgautam/react-product-zoom/issues"
   },
-  "homepage": "https://github.com/keshavgautam/react-product-zoom#readme"
+  "homepage": "https://github.com/keshavgautam/react-product-zoom#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.16.7"
+  }
 }
